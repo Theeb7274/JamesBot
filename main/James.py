@@ -6,9 +6,9 @@ from dotenv import load_dotenv
 import os
 import random
 
-stuff = "<:customemoji:1108122344137957488>"
-jamesID = 203558341824348160
-fishID = 242729976418402304
+stuff = ""
+jamesID = 
+fishID = 
 
 load_dotenv() # Pull env variables from .env
 token = os.getenv('DISCORD_TOKEN')
